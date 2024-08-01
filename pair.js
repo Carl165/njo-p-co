@@ -57,24 +57,24 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*𝐁𝐀𝐑𝐀𝐊𝐀_𝐌𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃*
+*𝐂𝐀𝐑𝐋 𝐒𝐇𝐀𝐑𝐊_𝐌𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃*
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
 ║𝑭𝒐𝒍𝒍𝒐𝒘 𝒕𝒉𝒊𝒔 𝒘𝒂𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒇𝒐𝒓 𝒃𝒐𝒕 𝒖𝒑𝒅𝒂𝒕𝒆𝒔
-║https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
-║https://www.youtube.com/@ibrahimaitech
+║https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h
+║https://t.me/Carl
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
 ║𝑭𝒐𝒓 𝒎𝒐𝒓𝒆 𝒊𝒏𝒇𝒐 𝒕𝒂𝒑 𝒐𝒏 𝒕𝒉𝒆 𝒍𝒊𝒏𝒌 𝒃𝒆𝒍𝒐𝒘
-║https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO
-║https://github.com/ibrahimaitech/BARAKA-XMD
+║https://github.com/Carl165/CARLTECH-INFO 
+║https://github.com/Carl165/Carl-Shark-MD
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
 ║𝑭𝒐𝒓 𝒂𝒏𝒚 𝒑𝒓𝒐𝒃𝒍𝒆𝒎 𝒕𝒆𝒙𝒕 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓𝒔
-║https://wa.me/message/I6BCZA76PFIYH1
-║https://wa.me/message/74F2PC4JA4F3P1
+║https://wa.link/c9qf2z
+║https://wa.link/c9qf2z
 
-*𝐌𝐀𝐃𝐄 𝐁𝐘 𝐁𝐀𝐑𝐀𝐊𝐀 𝐁𝐄𝐆𝐀* ❒❒❒❒❒❒❒`
+*𝐌𝐀𝐃𝐄 𝐁𝐘 𝐂𝐀𝐑𝐋𝐓𝐄𝐂𝐇* ❒❒❒❒❒❒❒`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
