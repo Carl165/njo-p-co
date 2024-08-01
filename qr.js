@@ -75,7 +75,7 @@ router.get('/', async (req, res) => {
 ║𝑭𝒐𝒓 𝒂𝒏𝒚 𝒑𝒓𝒐𝒃𝒍𝒆𝒎 𝒕𝒆𝒙𝒕 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓𝒔
 ║https://wa.me/254740271632
 ║https://wa.me/254770954948
-
+  💞🩷❤️💜💚🧡🩵💙
 *𝐌𝐀𝐃𝐄 𝐁𝐘 𝐂𝐀𝐑𝐋𝐓𝐄𝐂𝐇* ❒❒❒❒❒❒❒`
 					
 	 await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
