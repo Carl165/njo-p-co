@@ -73,7 +73,7 @@ router.get('/', async (req, res) => {
 ║𝑭𝒐𝒓 𝒂𝒏𝒚 𝒑𝒓𝒐𝒃𝒍𝒆𝒎 𝒕𝒆𝒙𝒕 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓𝒔
 ║https://wa.link/c9qf2z
 ║https://wa.link/c9qf2z
-
+ 💙🩵🧡💚💛🤎💜❤️🩷💞
 *𝐌𝐀𝐃𝐄 𝐁𝐘 𝐂𝐀𝐑𝐋𝐓𝐄𝐂𝐇* ❒❒❒❒❒❒❒`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
