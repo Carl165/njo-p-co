@@ -61,22 +61,22 @@ router.get('/', async (req, res) => {
 				   let SIGMA_MD_TEXT = `
 *𝐂𝐀𝐑𝐋-𝐒𝐇𝐀𝐑𝐊_𝐌𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃*
 
-❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
+╔════ ✿ ❀♡♡ ღღ ✿♡♡ ❀ ════╗
 ║𝑭𝒐𝒍𝒍𝒐𝒘 𝒕𝒉𝒊𝒔 𝒘𝒂𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒇𝒐𝒓 𝒃𝒐𝒕 𝒖𝒑𝒅𝒂𝒕𝒆𝒔
 ║https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h
 ║https://t.me/Carl
-
-❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
+╚════ ❀ ✿ ღღ ❀ ✿ ════╝
+۩❦۩¤═══¤ ❣ ¤═══¤۩❦۩۩❦۩¤═══¤ ❣
 ║𝑭𝒐𝒓 𝒎𝒐𝒓𝒆 𝒊𝒏𝒇𝒐 𝒕𝒂𝒑 𝒐𝒏 𝒕𝒉𝒆 𝒍𝒊𝒏𝒌 𝒃𝒆𝒍𝒐𝒘
 ║https://github.com/Carl165/CARLTECH-INFO 
 ║https://github.com/Carl165/Carl-Shark-MD 
 
-❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
+ ꘎♡━━━━━♡꘎꘎♡━━━━━♡꘎꘎♡━━━━━♡꘎
 ║𝑭𝒐𝒓 𝒂𝒏𝒚 𝒑𝒓𝒐𝒃𝒍𝒆𝒎 𝒕𝒆𝒙𝒕 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓𝒔
 ║https://wa.me/254740271632
 ║https://wa.me/254770954948
   💞🩷❤️💜💚🧡🩵💙
-*𝐌𝐀𝐃𝐄 𝐁𝐘 𝐂𝐀𝐑𝐋𝐓𝐄𝐂𝐇* ❒❒❒❒❒❒❒`
+*𝐌𝐀𝐃𝐄 𝐁𝐘 𝐂𝐀𝐑𝐋𝐓𝐄𝐂𝐇* ☆☆☆☆`
 					
 	 await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
 
